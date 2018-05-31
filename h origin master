@@ -1,0 +1,29 @@
+[33mcommit 37bf6a38a0c4aa15e8e30fb313746684dfcc0965[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gokova Olga <@gokova@ya.ru@>
+Date:   Thu May 31 21:54:42 2018 +0300
+
+    Hello 1
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 4d76292..75ce17b 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,3 @@[m
+ # hello-world[m
+ I want to describe life in Russia as it is, from the point of view of me, as a mother, as a daughter and as a half-sovereign of its resident)))[m
+[32m+[m[32mA wonderful, huge country, rich in resources and beauty, Russia![m
+
+[33mcommit be6127fd97b7638f5725aa388b06465cd03d497c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: GokovaOlga <39800450+GokovaOlga@users.noreply.github.com>
+Date:   Thu May 31 17:12:37 2018 +0300
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4d76292[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# hello-world[m
+[32m+[m[32mI want to describe life in Russia as it is, from the point of view of me, as a mother, as a daughter and as a half-sovereign of its resident)))[m
